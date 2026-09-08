@@ -60,7 +60,6 @@ I am a passionate and motivated SAS fresher with a strong interest in data analy
 **Other Tools & Platforms**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Also Familiar With (from featured projects)**
